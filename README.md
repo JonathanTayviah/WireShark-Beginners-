@@ -16,41 +16,22 @@ In this project I am conducting traffic capturing and analyzing web traffic usin
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
-Install the Wireshark program from the command terminal using the command "sudo apt install wireshark: <br/>
-<img src="https://imgur.com/a/p81h2uX" height="80%" width="80%" alt="Wireshark Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![Wireshark Step 1](https://github.com/JonathanTayviah/WireShark-Beginners-/assets/153164850/8c05d970-d9f3-460d-a148-122f99b17997)
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
+![image](https://github.com/JonathanTayviah/WireShark-Beginners-/assets/153164850/c82b4dd6-454b-468e-b552-bc812e7357c6)
+
+
+![image](https://github.com/JonathanTayviah/WireShark-Beginners-/assets/153164850/07ecf29c-7cab-4921-8897-a4df61e73d4f)
+
+
+![image](https://github.com/JonathanTayviah/WireShark-Beginners-/assets/153164850/79de1b65-7072-46f5-bd97-d6d5d3ea96f0)
+
+
+![image](https://github.com/JonathanTayviah/WireShark-Beginners-/assets/153164850/0bc58ba4-f871-4247-8ea5-2b4ae585b67d)
+
+
+![image](https://github.com/JonathanTayviah/WireShark-Beginners-/assets/153164850/2172f2af-dad2-4b37-ba88-c25303b6ab43)
+
+
+![image](https://github.com/JonathanTayviah/WireShark-Beginners-/assets/153164850/923459f6-46c8-4653-ab1d-bd886b0c8cf6)
